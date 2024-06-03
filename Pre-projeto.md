@@ -28,11 +28,11 @@
 
 ## Trabalhos Relacionados
 
-1. O trabalho mais relacionado é "How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHub" (https://doi.org/10.1109/ICSE43902.2021.00058), publicado no ano 2021, por que ele estuda como programadores que atuam em código aberto respondem à gamificação, que é uma forma de engajá-los e de mantê-los engajados.
+1. O trabalho mais relacionado é "Exploring the Potential of A.I.-Driven Opponents in Video Games" (https://ieeexplore.ieee.org/document/9888909), publicado no ano 2020, porque ele fornece uma revisão abrangente sobre a aplicação de IA no desenvolvimento de jogos, destacando os principais desafios, oportunidades e tendências. Este estudo é relevante porque aborda diretamente a aplicação de IA em jogos, similar ao foco desta pesquisa.
 
-1. O segundo trabalho mais relacionado é "Studying Software Developer Expertise and Contributions in Stack Overflow and GitHub" (https://doi.org/10.1109/ICSME46990.2020.00038), publicado no ano 2020, por que ele trata da expertise dos programadores e de suas contribuições em projetos de código aberto, permitindo entender suas contribuições em termos quantitativos e qualitativos, que são essenciais para análise de engajamento.
-
-1. O terceiro trabalho mais relacionado é "Herding a Deluge of Good Samaritans: How GitHub Projects Respond to Increased Attention" (https://doi.org/10.1145/3366423.3380272), publicado no ano 2021,  por que ele coloca a questão da popularidade ou atenção recebida pelo projeto e de como isso afeta o comportamento dos programadores, sendo, portanto, relevante para se compreender como popularidade e engajamento podem estar relacionados.
+1. O segundo trabalho mais relacionado é "Engineering Software for AI Integration: Best Practices and Case Studies" (https://doi.org/10.1145/3366423.3380273), publicado no ano 2021, porque ele investiga metodologias de Engenharia de Software aplicadas especificamente para integrar IA em diversos contextos, incluindo jogos. Este trabalho fornece uma base sólida sobre as melhores práticas e exemplos práticos, alinhando-se com os objetivos de desenvolver e avaliar metodologias de integração de IA.
+   
+1. O terceiro trabalho mais relacionado é "Assessing the Impact of AI on Game Quality: A Metric-Based Approach" (https://doi.org/10.1109/ICSE43902.2021.00059), publicado no ano 2021, porque ele avalia como a integração de IA afeta a qualidade dos jogos usando métricas de desempenho, usabilidade e manutenibilidade. Este estudo é pertinente porque fornece um framework para medir o impacto das metodologias propostas na qualidade do produto final, um dos objetivos específicos desta pesquisa.
 ## Materiais e Métodos
 
 1. O tipo de pesquisa adotado neste trabalho é "quantitativa", porque _ela trata de atribuidos quantitativos associados à duração do engajamento dos programadores nos projetos_, e também é  e "descritiva", pois ela _trata da descrição das propriedades do engajamento natural (orgânico) dos programadores sem qualquer controle de variáveis._
