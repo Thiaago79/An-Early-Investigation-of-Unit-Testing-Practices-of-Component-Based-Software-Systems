@@ -8,16 +8,15 @@
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é _Fatores Humanos na Engenharia de Software_ e _Desenvolvimento de Software de Código Aberto_
+1. A área da Engenharia de Software tratada neste trabalho é  _Inteligência_Artificial_para_Jogos_(Game_AI)_
 
-1. O problema que este trabalho busca resolver nessa área é conforme as questões de pesquisa (RQ, do inglês _Research Questions_) a seguir: _(RQ1) Qual é a duração do engajamento de programadores em projetos de código aberto? (RQ2) Os programadores se engajam fazendo commit nos projetos de código aberto de forma transiente, i.e. uma vez e não voltam mais, ou eles permanecem engajados ao longo do tempo? (RQ3) A popularidade do projeto influencia a duração do engajamento?_
+1. O problema que este trabalho busca resolver nessa área é conforme as questões de pesquisa (RQ, do inglês Research Questions) a seguir: (RQ1) Quais são as técnicas de Engenharia de Software que podem ser aplicadas para otimizar a implementação de Inteligência Artificial na produção de jogos? (RQ2) Como a aplicação dessas técnicas influencia na eficiência do desenvolvimento de jogos com IA? (RQ3) Qual é o impacto dessas técnicas na qualidade do produto final em jogos que utilizam IA?
 
-1. Resolver este problema é relevante por que _a avaliação do engajamento permite analisar a sustentabilidade do projeto de código aberto tendo a conta a tendência que ele tem programadores (contribuidores) ao longo tempo, permite avaliar riscos à sua qualidade quando os programadores no caso, por exemplo, de programadores que apresentam um comportamento transientes, e, por fim, pode-se compreender se a popularidade dos projeto incentiva no engajamento de longo prazo_
+2. Resolver este problema é relevante porque a otimização da implementação de Inteligência Artificial na produção de jogos pode resultar em um desenvolvimento mais eficiente e na melhoria da qualidade do produto final. A aplicação adequada de técnicas de Engenharia de Software pode reduzir custos, acelerar o tempo de desenvolvimento e aumentar a satisfação dos jogadores através de experiências de jogo mais realistas e envolventes.
 
-1. O objetivo geral deste trabalho é _medir a duração de engajamento de longo prazo de programadores em projetos de código aberto._
+3. O objetivo geral deste trabalho é explorar como a aplicação de técnicas de Engenharia de Software pode otimizar a implementação de Inteligência Artificial na produção de jogos, focando na eficiência do desenvolvimento e na qualidade do produto final.
 
-1. Os *três* objetivos específicos deste trabalho são: _(1) Contrastar abordagens para mensurar engajamento de longo prazo em contexto de projeto de código aberto; (2) Distinguir programadores que apresentam engajamento de longo prazo e programadores que exibem engajamento de curto prazo; (3) Analisar se a duração do engajamento é influenciada por características de popularidade dos projetos, como o número de forks._
-
+4. Os três objetivos específicos deste trabalho são: (1) Identificar e avaliar técnicas de Engenharia de Software que são eficazes na otimização da implementação de IA em jogos; (2) Analisar a influência dessas técnicas na eficiência do processo de desenvolvimento de jogos com IA; (3) Avaliar o impacto dessas técnicas na qualidade do produto final, considerando fatores como realismo, jogabilidade e satisfação dos jogadores.
 
 ## Fundamentação Teórica
 
