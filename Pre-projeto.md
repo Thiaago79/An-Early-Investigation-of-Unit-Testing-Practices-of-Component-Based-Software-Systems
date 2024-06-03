@@ -33,14 +33,20 @@
 1. O segundo trabalho mais relacionado é "Engineering Software for AI Integration: Best Practices and Case Studies" (https://doi.org/10.1145/3366423.3380273), publicado no ano 2021, porque ele investiga metodologias de Engenharia de Software aplicadas especificamente para integrar IA em diversos contextos, incluindo jogos. Este trabalho fornece uma base sólida sobre as melhores práticas e exemplos práticos, alinhando-se com os objetivos de desenvolver e avaliar metodologias de integração de IA.
    
 1. O terceiro trabalho mais relacionado é "Assessing the Impact of AI on Game Quality: A Metric-Based Approach" (https://doi.org/10.1109/ICSE43902.2021.00059), publicado no ano 2021, porque ele avalia como a integração de IA afeta a qualidade dos jogos usando métricas de desempenho, usabilidade e manutenibilidade. Este estudo é pertinente porque fornece um framework para medir o impacto das metodologias propostas na qualidade do produto final, um dos objetivos específicos desta pesquisa.
-## Materiais e Métodos
+1. O tipo de Pesquisa adotado neste estudo é mista, combinando elementos de pesquisa quantitativa e qualitativa.
+Quantitativa: Análise de dados quantitativos relacionados ao engajamento dos programadores.
+Qualitativa: Exploração e descrição das características do engajamento natural dos programadores.
 
-1. O tipo de pesquisa adotado neste trabalho é "quantitativa", porque _ela trata de atribuidos quantitativos associados à duração do engajamento dos programadores nos projetos_, e também é  e "descritiva", pois ela _trata da descrição das propriedades do engajamento natural (orgânico) dos programadores sem qualquer controle de variáveis._
+2. Os materiais utilizados neste trabalho são os seguintes:
+a) plataformas de desenvolvimento de jogos como Unity (https://unity.com/) e Unreal Engine (https://www.unrealengine.com/), que são amplamente utilizadas na indústria para a criação de jogos com IA;
+b) conjuntos de dados de benchmarks de IA em jogos, como os disponibilizados pelo AI and Games Research Network (http://www.aiandgames.com/);
+c) ferramentas de análise e desenvolvimento de IA, incluindo bibliotecas de aprendizado de máquina como TensorFlow (https://www.tensorflow.org/) e PyTorch (https://pytorch.org/);
+d) dados de desempenho e qualidade dos jogos, coletados a partir de plataformas de distribuição de jogos, análises de usuários e métricas de uso das APIs de IA.
 
-1. Os materiais utilizados neste trabalho são come segue: a) _projetos de código aberto selecionados são aqueles que utilizam a plataforma GitHub (https://github.com/), um conjunto de 30 projetos com diferente número de forks, de 10 a 10000, são analisados; 2) dados dos commits feitos pelos programadores são coletados via Interface de Programação de Aplicações (API) do GitHub (https://docs.github.com/en/rest?apiVersion=2022-11-28). A cada commit estão associadas às informações do projeto, programador e data; 3) dados da popularidade dos projetos quanto ao número de forks e número de programadores, ambos coletados via API._
+3. Os métodos empregados neste trabalho são análise de regressão linear para determinar a relação entre as técnicas de Engenharia de Software e a eficiência do desenvolvimento de jogos; análise de correlação (Spearman ou Pearson) para examinar a relação entre a aplicação das técnicas de IA e a qualidade do produto final; e métodos de agrupamento k-means para categorizar os projetos de jogos com base em características de desenvolvimento e desempenho.
 
-1. Os métodos empregados neste trabalho são _agrupamento k-means (https://doi.org/10.1016/S0031-3203(02)00060-2), regressão linear, correlação (Spearman ou Kendall), análise de tendência central e de dispersão._
+4. As métricas de avaliação empregadas no estudo são tempo de desenvolvimento (medido em horas ou dias), número de commits no repositório do projeto, taxa de bugs (número de bugs reportados por linha de código), desempenho do jogo (FPS - frames por segundo), satisfação do usuário (avaliada por meio de classificações e comentários), e sucesso comercial (medido por vendas e downloads).
 
-1. As métricas de avaliação empregadas no estudo são _Relative Activitiy Duration_ do programador (https://doi.org/10.15346/hc.v1i2.12), _Activity Ratio_ do programador (https://doi.org/10.1109/MCSE.2014.4), _número de forks_ do projeto e número de programadores no projeto. 
+5. As etapas de execução do trabalho são:(1) coletar dados dos projetos de jogos que utilizam IA, incluindo informações de desenvolvimento e desempenho; (2) calcular as métricas de avaliação mencionadas; (3) realizar análises de tendência central e dispersão das métricas coletadas; (4) analisar a relação entre as variáveis por meio de correlação e regressão; (5) aplicar o método de agrupamento k-means para identificar padrões e categorias de projetos de jogos.
 
-1. As etapa de execução do trabalho são: (1) coletar os dados dos projetos no GitHub; (2) calcular as métricas, (3) analisar tendência central e dispersão; (4) analisar a relação entre as variáveis por correlação e regressão; e (5) analisar o agrupamento k-means. A partir dessas etapas, as questões de pesquisa são respondidas e os objetivos (geral e específicos) são atingidos.
+A partir dessas etapas, as questões de pesquisa são respondidas e os objetivos (geral e específicos) são atingidos.
