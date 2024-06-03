@@ -1,4 +1,4 @@
-# Uso de Inteligência Artificial na produção de jogos
+# Uso de Inteligência Artificial na produção de jogos na perspectiva da engenharia de software
 
 1. Arthur Freitas Jardim
 
@@ -22,7 +22,7 @@
 
 1. O conceito/teoria principal associado a este trabalho é _integração de inteligência artificial na engenharia de software._  A sua definição neste trabalho é a "combinação sistemática de princípios, práticas e ferramentas da Engenharia de Software com técnicas e algoritmos de Inteligência Artificial para o desenvolvimento de software robusto, eficiente e de alta qualidade, com foco em jogos digitais", conforme definido no trabalho "Engineering AI-Powered Systems: A Software Engineering Perspective" (https://ieeexplore.ieee.org/document/9551634), pelos autores Ivan Peña-Arenas, Thierry Garaix, Philippe Lacomme, Nikolay Tchernev (2021).
 
-1. O conceito/teoria secundário associado a este trabalho é _qualidade de software_. A sua definição neste trabalho é "conjunto de atributos intrínsecos de um software que determinam sua capacidade de atender às necessidades dos usuários e stakeholders, incluindo confiabilidade, eficiência, segurança, manutenibilidade, portabilidade e usabilidade", conforme definido no trabalho "Software Quality Assurance: A Roadmap for the Future" (https://ieeexplore.ieee.org/document/9743014), pelos autores H Bhatt, Arvind Meniya (2022).
+1. O conceito/teoria secundário associado a este trabalho é qualidade de software. A sua definição neste trabalho é "conjunto de atributos intrínsecos de um software que determinam sua capacidade de atender às necessidades dos usuários e stakeholders, incluindo confiabilidade, eficiência, segurança, manutenibilidade, portabilidade e usabilidade", conforme definido no trabalho "Software Quality Assurance: A Roadmap for the Future" (https://ieeexplore.ieee.org/document/9743014), pelos autores H Bhatt, Arvind Meniya (2022).
 
 1. O conceito/teoria terciário associado a este trabalho é _metodologias de integração de inteligência artificial_ A sua definição neste trabalho é _"Conjunto estruturado de práticas, processos e ferramentas de Engenharia de Software que guiam a integração eficaz de algoritmos e sistemas de IA em projetos de software, otimizando o desenvolvimento e a qualidade do produto final, com ênfase em jogos digitais"_ Essa definição é conforme definido no trabalho "Software Engineering Practices for AI Integration: A Survey and Taxonomy" (https://ieeexplore.ieee.org/document/9803421), pelos autores M. B. Ryzhikov, V. N. Kovregin, Yu. A. Novikova (2022).
 
