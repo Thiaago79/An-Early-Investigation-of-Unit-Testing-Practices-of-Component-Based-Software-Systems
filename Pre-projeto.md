@@ -33,6 +33,9 @@
 1. O segundo trabalho mais relacionado é "Engineering Software for AI Integration: Best Practices and Case Studies" (https://doi.org/10.1145/3366423.3380273), publicado no ano 2021, porque ele investiga metodologias de Engenharia de Software aplicadas especificamente para integrar IA em diversos contextos, incluindo jogos. Este trabalho fornece uma base sólida sobre as melhores práticas e exemplos práticos, alinhando-se com os objetivos de desenvolver e avaliar metodologias de integração de IA.
    
 1. O terceiro trabalho mais relacionado é "Assessing the Impact of AI on Game Quality: A Metric-Based Approach" (https://doi.org/10.1109/ICSE43902.2021.00059), publicado no ano 2021, porque ele avalia como a integração de IA afeta a qualidade dos jogos usando métricas de desempenho, usabilidade e manutenibilidade. Este estudo é pertinente porque fornece um framework para medir o impacto das metodologias propostas na qualidade do produto final, um dos objetivos específicos desta pesquisa.
+
+## Materiais e Métodos
+
 1. O tipo de Pesquisa adotado neste estudo é mista, combinando elementos de pesquisa quantitativa e qualitativa.
 Quantitativa: Análise de dados quantitativos relacionados ao engajamento dos programadores.
 Qualitativa: Exploração e descrição das características do engajamento natural dos programadores.
