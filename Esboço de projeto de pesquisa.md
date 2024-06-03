@@ -8,21 +8,20 @@
 O tema tratado na pesquisa é _uso de Inteligência Artificial na produção de jogos_.
 
 # Problema
-O problema a ser resolvido na pesquisa é: _Como a Inteligência Artificial está sendo aplicada na produção de jogos e de que maneira isso impacta a experiência do jogador? Quais são os principais desafios e oportunidades encontrados na integração de IA nos processos de desenvolvimento de jogos?_.
+O problema a ser resolvido na pesquisa é: _Como a aplicação de técnicas de Engenharia de Software pode otimizar a implementação de Inteligência Artificial na produção de jogos, focando na eficiência do desenvolvimento e na qualidade do produto final?_.
 
 # Objetivo geral
-O objetivo geral desta pesquisa é investigar o uso de Inteligência Artificial na produção de jogos e analisar seu impacto na experiência do jogador._.
+O objetivo geral desta pesquisa é _investigar a aplicação de técnicas de Engenharia de Software para otimizar a integração de Inteligência Artificial na produção de jogos, melhorando a eficiência do desenvolvimento e a qualidade do produto final._.
 
 # Objetivos específicos
 Os objetivos específicos são:
-1. _Analisar as principais técnicas de Inteligência Artificial utilizadas na produção de jogos, tais como sistemas de comportamento inteligente para NPCs, geração procedural de conteúdo e algoritmos de aprendizado de máquina para otimização de jogabilidade;
-2. _Avaliar como a aplicação de Inteligência Artificial influencia aspectos específicos da experiência do jogador, como imersão, desafio, variedade e personalização_;
-3. _Identificar os principais desafios técnicos e de design enfrentados na integração de IA nos processos de desenvolvimento de jogos, incluindo questões relacionadas à eficiência computacional, interpretabilidade dos algoritmos e adaptação a diferentes gêneros e plataformas de jogos_.
+1. _Desenvolver Metodologias de Integração de IA: Criar e avaliar metodologias de Engenharia de Software para integrar IA na produção de jogos, com foco em eficiência e qualidade do desenvolvimento._.
+2. _Avaliar Impactos na Qualidade do Produto: Analisar como a integração de IA, mediada pelas metodologias propostas, impacta na qualidade final dos jogos, utilizando métricas de qualidade de software, como desempenho, usabilidade e manutenibilidade._.
+3. _Adaptar Metodologias a Diferentes Contextos: Investigar a adaptabilidade das metodologias propostas a diferentes tipos de jogos e plataformas, considerando desafios específicos de cada contexto._.
    
 # Materiais e Métodos
 As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
-* Revisão da literatura especializada em Inteligência Artificial e jogos para identificar as principais técnicas, tendências e desafios na área.
-* Análise de estudos de caso e entrevistas com desenvolvedores de jogos para compreender como a IA é implementada em diferentes contextos de produção de jogos.
-* Utilização de métricas de desempenho de jogos, como taxa de retenção de jogadores, tempo de jogo e avaliações de usuários, para avaliar o impacto da IA na experiência do jogador.
-* Amostragem de jogos de diferentes gêneros e plataformas para garantir uma representação variada das práticas de uso de IA na indústria de jogos.
-* Análise estatística descritiva e inferencial para identificar padrões e correlações entre a aplicação de IA e os resultados obtidos nos jogos, bem como para examinar a relação entre a qualidade da IA e a satisfação do jogador.
+* Desenvolvimento e Avaliação de Metodologias: Propor metodologias baseadas em princípios de Engenharia de Software para a integração de IA e aplicar essas metodologias em projetos piloto.
+* Estudos de Caso: Conduzir estudos de caso em empresas de desenvolvimento de jogos para aplicar e avaliar as metodologias desenvolvidas, identificando benefícios e desafios.
+* Métricas de Qualidade de Software: Utilizar métricas de qualidade, como manutenibilidade, desempenho e usabilidade, para avaliar o impacto das metodologias propostas na qualidade dos jogos.
+* Amostragem Variada: Selecionar jogos de diferentes gêneros e plataformas para garantir uma análise abrangente das práticas de integração de IA.
