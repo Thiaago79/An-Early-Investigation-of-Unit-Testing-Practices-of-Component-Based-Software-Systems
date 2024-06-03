@@ -8,7 +8,7 @@
 
 ## Introdução
 
-1. A área da Engenharia de Software tratada neste trabalho é  _Inteligência_Artificial_para_Jogos_(Game_AI)_
+1. A área da Engenharia de Software tratada neste trabalho é  _Inteligência Artificial para Jogos (Game_AI)_
 
 1. O problema que este trabalho busca resolver nessa área é conforme as questões de pesquisa (RQ, do inglês Research Questions) a seguir: (RQ1) Quais são as técnicas de Engenharia de Software que podem ser aplicadas para otimizar a implementação de Inteligência Artificial na produção de jogos? (RQ2) Como a aplicação dessas técnicas influencia na eficiência do desenvolvimento de jogos com IA? (RQ3) Qual é o impacto dessas técnicas na qualidade do produto final em jogos que utilizam IA?
 
