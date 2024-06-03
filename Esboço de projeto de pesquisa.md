@@ -21,7 +21,7 @@ Os objetivos específicos são:
    
 # Materiais e Métodos
 As ferramentas, dados, métricas, forma de amostragem, análise estatística são:
-* Desenvolvimento e Avaliação de Metodologias: Propor metodologias baseadas em princípios de Engenharia de Software para a integração de IA e aplicar essas metodologias em projetos piloto.
-* Estudos de Caso: Conduzir estudos de caso em empresas de desenvolvimento de jogos para aplicar e avaliar as metodologias desenvolvidas, identificando benefícios e desafios.
-* Métricas de Qualidade de Software: Utilizar métricas de qualidade, como manutenibilidade, desempenho e usabilidade, para avaliar o impacto das metodologias propostas na qualidade dos jogos.
-* Amostragem Variada: Selecionar jogos de diferentes gêneros e plataformas para garantir uma análise abrangente das práticas de integração de IA.
+* Propor metodologias baseadas em princípios de Engenharia de Software para a integração de IA e aplicar essas metodologias em projetos piloto.
+* Conduzir estudos de caso em empresas de desenvolvimento de jogos para aplicar e avaliar as metodologias desenvolvidas, identificando benefícios e desafios.
+* Utilizar métricas de qualidade, como manutenibilidade, desempenho e usabilidade, para avaliar o impacto das metodologias propostas na qualidade dos jogos.
+* Selecionar jogos de diferentes gêneros e plataformas para garantir uma análise abrangente das práticas de integração de IA.
