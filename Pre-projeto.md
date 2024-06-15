@@ -36,20 +36,14 @@
 
 ## Materiais e Métodos
 
-1. O tipo de Pesquisa adotado neste estudo é mista, combinando elementos de pesquisa quantitativa e qualitativa.
-Quantitativa: Análise de dados quantitativos relacionados ao engajamento dos programadores.
-Qualitativa: Exploração e descrição das características do engajamento natural dos programadores.
+1. Este estudo adota uma abordagem "quantitativa" e "descritiva" para avaliar a integração de IA na Engenharia de Software aplicada ao desenvolvimento de jogos. A pesquisa envolverá a participação de 50 programadores durante um período de 6 meses. Esses programadores implementarão funcionalidades de IA em projetos de jogos, aplicando diversas técnicas de Engenharia de Software.
 
-2. Os materiais utilizados neste trabalho são os seguintes:
-a) plataformas de desenvolvimento de jogos como Unity (https://unity.com/) e Unreal Engine (https://www.unrealengine.com/), que são amplamente utilizadas na indústria para a criação de jogos com IA;
-b) conjuntos de dados de benchmarks de IA em jogos, como os disponibilizados pelo AI and Games Research Network (http://www.aiandgames.com/);
-c) ferramentas de análise e desenvolvimento de IA, incluindo bibliotecas de aprendizado de máquina como TensorFlow (https://www.tensorflow.org/) e PyTorch (https://pytorch.org/);
-d) dados de desempenho e qualidade dos jogos, coletados a partir de plataformas de distribuição de jogos, análises de usuários e métricas de uso das APIs de IA.
+2. Os materiais e dados utilizados incluem 30 projetos de código aberto selecionados no GitHub com base no número de forks, variando de 10 a 10.000. Os dados dos commits dos programadores serão coletados via API do GitHub, incluindo informações sobre o projeto, o programador e a data do commit. Além disso, serão coletados dados sobre o número de forks e o número de programadores de cada projeto via API do GitHub.
 
-3. Os métodos empregados neste trabalho são análise de regressão linear para determinar a relação entre as técnicas de Engenharia de Software e a eficiência do desenvolvimento de jogos; análise de correlação (Spearman ou Pearson) para examinar a relação entre a aplicação das técnicas de IA e a qualidade do produto final; e métodos de agrupamento k-means para categorizar os projetos de jogos com base em características de desenvolvimento e desempenho.
+3. As métricas de avaliação usadas no estudo serão a Relative Activity Duration, que avalia a duração relativa da atividade de um programador em um projeto; o Activity Ratio, que mede a proporção de tempo que um programador passa ativo em um projeto; o número de forks do projeto, como um indicador de popularidade e engajamento; e o número de programadores no projeto.
 
-4. As métricas de avaliação empregadas no estudo são tempo de desenvolvimento (medido em horas ou dias), número de commits no repositório do projeto, taxa de bugs (número de bugs reportados por linha de código), desempenho do jogo (FPS - frames por segundo), satisfação do usuário (avaliada por meio de classificações e comentários), e sucesso comercial (medido por vendas e downloads).
+4. Os programadores aplicarão várias técnicas de Engenharia de Software, incluindo modelagem e design de software usando UML e Design Patterns; gestão de configuração e controle de versão com ferramentas como Git e práticas de CI/CD; metodologias ágeis como Scrum e Kanban; práticas de testes de software como TDD e BDD; refatoração de código para melhorar a legibilidade e manutenibilidade; documentação de software ágil e detalhada das APIs; e análise e garantia de qualidade através de revisões de código e análises estática e dinâmica.
 
-5. As etapas de execução do trabalho são:(1) coletar dados dos projetos de jogos que utilizam IA, incluindo informações de desenvolvimento e desempenho; (2) calcular as métricas de avaliação mencionadas; (3) realizar análises de tendência central e dispersão das métricas coletadas; (4) analisar a relação entre as variáveis por meio de correlação e regressão; (5) aplicar o método de agrupamento k-means para identificar padrões e categorias de projetos de jogos.
+5. Para garantir uma análise abrangente, serão selecionados jogos de diferentes gêneros e plataformas. Os métodos de análise estatística incluirão agrupamento K-Means, regressão linear, correlação (Spearman ou Kendall), e análise de tendência central e dispersão.
 
-A partir dessas etapas, as questões de pesquisa são respondidas e os objetivos (geral e específicos) são atingidos.
+6. Serão conduzidos estudos de caso em empresas de desenvolvimento de jogos para aplicar e avaliar as metodologias desenvolvidas, identificando benefícios e desafios. As informações sobre o sucesso comercial dos jogos desenvolvidos serão obtidas de fontes públicas como relatórios financeiros, dados de vendas e análises de mercado disponíveis em plataformas como Steam e App Store. O sucesso comercial será analisado em relação às técnicas de Engenharia de Software aplicadas durante o desenvolvimento dos jogos, permitindo avaliar como essas práticas influenciam o desempenho comercial e a qualidade final do produto.
