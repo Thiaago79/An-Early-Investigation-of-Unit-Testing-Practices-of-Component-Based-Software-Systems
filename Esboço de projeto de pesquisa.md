@@ -5,10 +5,10 @@
 * Lesandro Ponciano (orientador de acadêmico)
 
 # Tema
-Uso de Inteligência Artificial na Produção de Jogos na Perspectiva da Engenharia de Software_.
+Uso de Inteligência Artificial na Produção de Jogos na Perspectiva da Engenharia de Software
 
 # Problema
-O problema a ser resolvido na pesquisa é: _Como a aplicação de técnicas de Engenharia de Software pode otimizar a implementação de Inteligência Artificial na produção de jogos, focando na eficiência do desenvolvimento e na qualidade do produto final?_.
+O problema a ser resolvido na pesquisa é: _Como a aplicação de técnicas de Engenharia de Software pode otimizar a implementação de Inteligência Artificial na produção de jogos, focando na eficiência do desenvolvimento e na qualidade do produto final?_
 
 # Objetivo geral
 O objetivo geral desta pesquisa é _investigar a aplicação de técnicas de Engenharia de Software, como metodologias ágeis (Scrum e Kanban), design de software utilizando UML (Unified Modeling Language), gestão de configuração e controle de versão com ferramentas como Git, práticas de teste de software como Test-Driven Development (TDD) e Behavior-Driven Development (BDD), refatoração de código, documentação detalhada, e análise e garantia de qualidade do software, para otimizar a integração de Inteligência Artificial na produção de jogos, melhorando a eficiência do desenvolvimento e a qualidade do produto final_.
